@@ -27,9 +27,6 @@ I fork, or create most of my open-source projects to document my learning proges
   <a href="https://qiskit.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/Qiskit/qiskit/master/docs/source/_static/images/qiskit-logo.png" alt="qiskit" width="40" height="40"/>
   </a>
-  <a href="https://quantumai.google/cirq" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/29150378?s=200&v=4" alt="cirq" width="40" height="40"/>
-  </a>
 </p>
 
 </details>
