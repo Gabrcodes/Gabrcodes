@@ -24,9 +24,6 @@ I fork, or create most of my open-source projects to document my learning proges
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://qiskit.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Qiskit/qiskit/master/docs/source/_static/images/qiskit-logo.png" alt="qiskit" width="40" height="40"/>
-  </a>
 </p>
 
 </details>
