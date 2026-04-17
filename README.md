@@ -25,8 +25,8 @@ Computer Engineering student at [Egypt University of Informatics (EUI)](https://
 ---
 
 <p align="left">
-  <img height="160" src="https://gabr-readme-stats.vercel.app/api?username=Gabrcodes&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160" src="https://gabr-readme-stats.vercel.app/api/top-langs/?username=Gabrcodes&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img height="160" src="https://gabr-readme-stats.vercel.app/api?username=Gabrcodes&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2" />
+  <img height="160" src="https://gabr-readme-stats.vercel.app/api/top-langs/?username=Gabrcodes&layout=compact&theme=radical&hide_border=true&langs_count=6&v=2" />
 </p>
 
 <p align="left">
