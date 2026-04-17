@@ -2,10 +2,10 @@
 
 Computer Engineering student at [Egypt University of Informatics (EUI)](https://eui.edu.eg), Cairo.
 
-- Founder & President of **QEUI** — one of Egypt's first student-run quantum computing research initiatives, under QEgypt/QWorld supervision
-- R&D Project Lead at **ENACTUS EUI** — building a solar-thermal sand-battery and mesh-network system for off-grid communities (UNESCO x Nestlé Youth Impact Grant, Paris 2026)
-- Working with **AWS, Docker, CI/CD, Linux** on self-hosted and cloud-native infrastructure
-- Quantum track: QBronze certified, QCourse110 (QWorld) — exploring QAOA and quantum optimization with Qiskit
+- Built a full **SharePoint intranet from scratch** using SPFx, React, and Tailwind CSS for a remote contractor gig
+- Deployed and run a **self-hosted Moodle e-learning stack** on Linux — DNS, SSL, Nginx, Docker, the works
+- Designed **AWS cloud infrastructure** (EC2, Lambda, IAM, Route 53) and led a team through an accelerator-funded MVP
+- Founder of **QEUI** — Egypt's first student quantum computing community, under QEgypt/QWorld
 
 ---
 
