@@ -1,11 +1,11 @@
-## Hi, I'm Abdelrahman Gabr
+### Hey, I'm Abdelrahman 👋
 
-Computer Engineering student at [Egypt University of Informatics (EUI)](https://eui.edu.eg), Cairo.
+CS student in Cairo who builds things with AWS, Docker, and whatever gets the job done.
+Currently shipping self-hosted infra, SPFx web apps, and running a quantum computing community at my university.
 
-- Built a full **SharePoint intranet from scratch** using SPFx, React, and Tailwind CSS for a remote contractor gig
-- Deployed and run a **self-hosted Moodle e-learning stack** on Linux — DNS, SSL, Nginx, Docker, the works
-- Designed **AWS cloud infrastructure** (EC2, Lambda, IAM, Route 53) and led a team through an accelerator-funded MVP
-- Founder of **QEUI** — Egypt's first student quantum computing community, under QEgypt/QWorld
+🔭 Working on: solar-thermal IoT systems + quantum algorithm research  
+🌱 Into: cloud-native infra, DevOps, and Qiskit  
+📍 Cairo, Egypt
 
 ---
 
